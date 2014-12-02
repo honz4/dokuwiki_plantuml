@@ -1,5 +1,8 @@
-﻿This plugin integrates [PlantUML](http://plantuml.sourceforge.net) into the [DukuWiki](http://www.dokuwiki.org) wiki engine.
+﻿This plugin integrates [PlantUML](http://plantuml.sourceforge.net) into the [DokuWiki](http://www.dokuwiki.org) wiki engine.
 It allows to generate UML graph images from simple description text block.
+
+# Jan Vlček (December 2014)
+* update remote mode
 
 # Features
 * Create any UML graph supported by PlantUML.
